@@ -40,7 +40,8 @@
     "prepublishOnly": "rollup --config"
   },
   "dependencies": {
-    "@embroider/addon-shim": "^0.50.2"
+    "@embroider/addon-shim": "^0.50.2",
+    "ember-cli-moment-shim": "^3.8.0"
   },
   "devDependencies": {
     "@babel/core": "^7.16.7",
